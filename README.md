@@ -1,6 +1,16 @@
 # PewCB.GigaPixelScans
 Microscope scans of the PCBs with tiled viewer to embed into other sites
 
+## Local viewing
+
+Open a board's `localViewer.html` directly in your browser. No web server or internet connection is required; keep the viewer alongside its matching `_files` tile folder in your local copy of the repository.
+
+- [coreXYcontroller](./coreXYcontroller/localViewer.html)
+- [stm32blink](./stm32blink/localViewer.html)
+- [TestBoardBottom](./TestBoardBottom/localViewer.html)
+- [TestBoardTinned](./TestBoardTinned/localViewer.html)
+- [weatherStation](./weatherStation/localViewer.html)
+
 <!-- boardscope-scan-index:start -->
 ## Scan index
 
